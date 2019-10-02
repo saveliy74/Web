@@ -1,0 +1,11 @@
+h3 {
+  font-size: 20pt;
+  font-family: Arial;
+  color: darkgreen;
+}
+
+p {
+  text-align: justify;
+  font-size: 14pt;
+  margin-left: 1cm;
+}
